@@ -33,10 +33,10 @@ The smart lock system operates with the following functionality:
 ## 🛠 Setup and Deployment
 
 1. **Hardware Connections**:  
-   - Connect the **SIM800 module** to pins 10 (RX) and 11 (TX).  
+   - Connect the **SIM800 module** to pins 10 (RX) and 11 (TX).(Change order if not work)  
    - Connect the **keypad** to digital pins 2–9.  
    - Attach the **servo motor** to pin 12.  
-   - Connect the **LCD display** via I2C at address `0x27`.  
+   - Connect the **LCD display** via I2C at address `0x27`. (Change address based on your I2C address)  
 
 2. **Code Configuration**:  
    - Update the `sendOTP` function with your phone number:  
