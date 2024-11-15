@@ -53,7 +53,7 @@ The smart lock system operates with the following functionality:
 
 Watch the smart lock in action on YouTube:  
 
-[![Watch the Video](https://img.youtube.com/vi/odgM3H7Qye4/0.jpg)](https://youtu.be/odgM3H7Qye4)  
+[![Watch the Video](https://img.youtube.com/vi/00zmE2M3Jkg/0.jpg)](https://youtube.com/shorts/00zmE2M3Jkg?feature=share)  
 
 > Click the image above to watch the demo video!
 
